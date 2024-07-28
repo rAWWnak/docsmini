@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 *{
-  font-family: 'Roboto';
+  font-family: 'Masiku';
 }
 ::selection{
   color: rgb(11, 86, 42);
